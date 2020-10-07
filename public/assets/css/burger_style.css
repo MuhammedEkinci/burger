@@ -1,10 +1,10 @@
 #body {
-    background-color: yellow;
     margin-left: 10%;
     margin-right: 10%;
 }
 
 #inputDiv {
+    margin: 0 auto;
     padding-left: 0px;
     padding-right: 0px;
 }
